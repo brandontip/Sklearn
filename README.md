@@ -1,2 +1,2 @@
 # Sklearn
-Linear regression, logistic regression, neural networks (svm and multiple classification here soon)
+Linear regression, logistic regression, neural networks (multi-class here soon)
